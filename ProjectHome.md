@@ -1,0 +1,1 @@
+A python wrapper of vmrun.exe, which is used to control Vmware. Its idea is based on Alexander Sotirov's vmrun-ruby. Currently it  only support vmware 6.0 or higher version.
